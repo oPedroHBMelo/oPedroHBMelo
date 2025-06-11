@@ -27,14 +27,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohbamelo&show_icons=true&theme=calm&hide_title=false&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohbamelo&layout=compact&theme=calm)
-
-</div>
 
 
