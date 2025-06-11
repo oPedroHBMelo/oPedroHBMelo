@@ -4,8 +4,8 @@
 💼 **Atuação atual**: Auxiliar de Escritório, migrando para TI  
 💡 **Aprendendo**: JavaScript, HTML, CSS, Git, Linux  
 🛠 **Ferramentas**: VS Code, GitHub, Photoshop, Illustrator  
-📫 **Contato**: pedrohbamelo@gmail.com
-🌐 **Portfólio**: [meusite.com](https://meusite.com)
+📫 **Contato**: pedrohbmelo554@gmail.com
+🌐 **Portfólio**: (https://github.com/oPedroHBMelo/Portifolio)
 
 ---
 
@@ -21,9 +21,7 @@
 
 ## 📌 Projetos em Destaque
 
-- 🧮 [Calculadora Simples em JavaScript](https://github.com/pedrohbamelo/calculadora-js)
-- ✅ [Lista de Tarefas com LocalStorage](https://github.com/pedrohbamelo/todo-list)
-- 🧾 [Página de Currículo em HTML/CSS](https://github.com/pedrohbamelo/curriculo-html)
+- 🧾 [Página de Currículo em HTML/CSS]([https://github.com/pedrohbamelo/curriculo-html](https://github.com/oPedroHBMelo/Portifolio))
 
 ---
 
